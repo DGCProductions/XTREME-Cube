@@ -1,10 +1,10 @@
 # **XTREME Cube:** A sandbox game where you control the cube!
 
-Current Version: v.1
+Current Version: v1
 
 Current BETA: N/A
 
-Upcoming Version: v.1.1-BETA
+Upcoming Version: v1.1-BETA
 
 ## **What the game is about...**
 
