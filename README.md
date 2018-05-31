@@ -17,6 +17,6 @@ Current Version: v.1
   - Set rotation of clones
   - Set position of clones
  - and more... What do you want in the game? Go to issues and recommend and idea for me to add!
- 
+ ![alt text](https://raw.githubusercontent.com/DGCProductions/XTREME-Cube/master/photo1.png)
  **Created by DGC Productions**
  
