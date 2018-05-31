@@ -1,6 +1,8 @@
 # **XTREME Cube!** A sandbox game where you control the cube!
 
 Current Version: v.1
+Current BETA: N/A
+Upcoming Version: v.1.1-BETA
 
 **What the game is about...**
 **XTREME Cube** is a 3D sandbox game which is revolved around GUI tools to edit the cubes settings (location,rotation,color,etc.) **BUT** the catch is that it isn't a simple sandbox where you enter the location and it goes there, you must increase or decrease the speed of the cube until it goes where you want it to go! This feature will make the game more of a controllable sandbox game, than just a sandbox game, hence the phrase "You control the cube."
