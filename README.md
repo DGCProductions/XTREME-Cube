@@ -1,4 +1,5 @@
-# **XTREME Cube:** A sandbox game where you control the cube!
+# **XTREME Cube:**
+## **The game where you control the cube**
 
 Current Version: v1.0
 
