@@ -1,5 +1,5 @@
-# **XTREME Cube**
-## The game where you control the cube
+# **XTREME Cube: The game where you control the cube**
+
 ## **Versions**
 Current Version: v1.0
 
