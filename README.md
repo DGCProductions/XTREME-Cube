@@ -1,11 +1,13 @@
 # **XTREME Cube: The game where you control the cube**
 
 ## **Versions**
-Current Version: v1.0
+[Current Version: v1.0](https://github.com/DGCProductions/XTREME-Cube/releases/tag/v1.0)
 
-Current BETA: v1.1-BETA
+[Current BETA: v1.1-BETA](https://github.com/DGCProductions/XTREME-Cube/releases/tag/v1.1-(BETA))
 
 Upcoming Version: v1.1
+
+[See all versions](https://github.com/DGCProductions/XTREME-Cube/releases)
 
 ## **What the game is about...**
 
