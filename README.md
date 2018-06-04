@@ -24,6 +24,7 @@ Upcoming Version: v1.1
   - Clean up clones
   - Set rotation of clones
   - Set position of clones
+  - Add textures to clones (brick, stone, wood, etc.)
  - and more... What do you want in the game? Go to issues and recommend and idea for me to add!
  ![alt text](https://raw.githubusercontent.com/DGCProductions/XTREME-Cube/master/photo1.png)
  
