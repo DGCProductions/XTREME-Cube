@@ -27,6 +27,7 @@ Go to the [Wiki](https://github.com/DGCProductions/XTREME-Cube/wiki) for more in
   - Set rotation of clones
   - Set position of clones
   - Add textures to clones (brick, stone, wood, etc.)
+  - Add 
  - and more... What do you want in the game? Go to issues and recommend and idea for me to add!
  ![alt text](https://raw.githubusercontent.com/DGCProductions/XTREME-Cube/master/photo1.png)
  
