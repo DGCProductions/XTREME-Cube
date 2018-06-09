@@ -30,7 +30,7 @@ Go to the [Wiki](https://github.com/DGCProductions/XTREME-Cube/wiki) for more in
   - Add source code for latest version
  - and more... What do you want in the game? Go to issues and recommend and idea for me to add OR join my discord!
  ![alt text](https://raw.githubusercontent.com/DGCProductions/XTREME-Cube/master/photo1.png)
- 
+ ![alt text](https://raw.githubusercontent.com/DGCProductions/XTREME-Cube/master/Main1.png)
  **Made with jMonkeyEngine**
  
  **Created by DGC Productions**
