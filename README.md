@@ -15,7 +15,7 @@ Upcoming Version: v1.1
 
 Go to the [Wiki](https://github.com/DGCProductions/XTREME-Cube/wiki) for more infomation about XTREME Cube
 
-Got more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask quesitons
+Got more questions? Follow the [Discord](https://discord.gg/JvyF9Pq) to ask questions 
 
 ## **Features (current and future plans)**
 - Full power to change speed and direction of cube's location
