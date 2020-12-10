@@ -5,7 +5,7 @@
 
 [Current BETA: v1.1-BETA](https://github.com/DGCProductions/XTREME-Cube/releases/tag/v1.1-(BETA))
 
-Upcoming Version: v1.2?
+Upcoming Version: N/A
 
 [See all versions](https://github.com/DGCProductions/XTREME-Cube/releases)
 
